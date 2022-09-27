@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduGit", "EduGit__\EduGit.csproj", "{9D3309D5-A798-43EE-BF35-9973CB21A1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3309D5-A798-43EE-BF35-9973CB21A1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3309D5-A798-43EE-BF35-9973CB21A1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3309D5-A798-43EE-BF35-9973CB21A1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3309D5-A798-43EE-BF35-9973CB21A1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8818396B-BFFD-48A0-808F-392F6601A014}
+	EndGlobalSection
+EndGlobal
